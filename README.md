@@ -1,0 +1,2 @@
+# ApiTestAutomationFramework
+ RestAssured is one of the best test automation tools to test APIs with Java programming language. This project will provide you step by step instructions to write scripts to automate API testing using Rest Assured,  how to automate and test CRUD (Create, Read, Update and Delete) operations with HTTP methods like GET, POST, PUT and DELETE, understanding JSON request and response, adding assertions to the API response.
